@@ -44,26 +44,30 @@ pre-requisites, but the ones that do list them on their descriptions.
 
 **Location**: WEH 5201 (Mac cluster)
 
-### Saturday, November 3rd
+### Friday, October 25th
 
-| Session                                | Time                   |
-|----------------------------------------|:----------------------:|
-| [HTML & CSS][html+css]                 | 1:30 p.m. -- 3:00 p.m. |
-| [JavaScript][javascript]               | 3:00 p.m. -- 4:30 p.m. |
-| [RESTful API Design][rest]             | 4:30 p.m. -- 6:00 p.m. |
-| *break for dinner - Noodles & Co.*     | 6:00 p.m. -- 6:30 p.m. |
-| [React][react]                         | 6:30 p.m. -- 8:00 p.m. |
+| Session                                             | Time                   |
+|-----------------------------------------------------|:----------------------:|
+| Lunch - Piada                                       | 1:30 p.m. -- 2:00 p.m. |
+| [HTML & CSS][html+css]                              | 2:00 p.m. -- 3:00 p.m. |
+| [JavaScript][javascript]                            | 3:00 p.m. -- 4:00 p.m. |
+| [Setup Your Dev Setup]                              | 4:00 p.m. -- 5:00 p.m. |
+| [React]                                             | 5:00 p.m. -- 6:00 p.m. |
+| *break for dinner - Chipotle*                       | 6:00 p.m. -- 6:30 p.m. |
+| [Building RESTful APIs with Node.js and MongoDB]    | 6:30 p.m. -- 8:00 p.m. |
 
 
-### Sunday, November 4th
+### Saturday, October 26th
 
-| Session                                    | Time                   |
-|--------------------------------------------|:----------------------:|
-| [HTML & CSS][html+css]                     | 1:30 p.m. -- 3:00 p.m. |
-| [Backend Engineering with Flask][backend]  | 3:00 p.m. -- 4:30 p.m. |
-| [Chrome Extension][tensorflow]             | 4:30 p.m. -- 6:00 p.m. |
-| *break for dinner- Pizza*                  | 6:00 p.m. -- 6:30 p.m. |
-| [React][react]                             | 6:30 p.m. -- 8:00 p.m. |
+| Session                                             | Time                   |
+|-----------------------------------------------------|:----------------------:|
+| Lunch - Pizza                                       | 1:30 p.m. -- 2:00 p.m. |
+| [Frontend JavaScript with AngularJS]                | 2:00 p.m. -- 3:00 p.m. |
+| [Chrome Extensions]                                 | 3:00 p.m. -- 4:00 p.m. |
+| [Building RESTful APIs with Flask]                  | 4:00 p.m. -- 5:00 p.m. |
+| [Postman Fundamentals]                              | 5:00 p.m. -- 6:00 p.m. |
+| *break for dinner - Choolaah*                       | 6:00 p.m. -- 6:30 p.m. |
+| [TensorFlow.js]                                     | 6:30 p.m. -- 8:00 p.m. |
 
 
 ## What will I learn?
